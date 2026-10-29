@@ -1,6 +1,6 @@
 # 1. Análisis de implementaciones
 
-## A. 
+### A. 
 
 La B. Ya que solo referencia a una persona que ya esta creado, mientras que la A siempre crea una persona nueva.
 
