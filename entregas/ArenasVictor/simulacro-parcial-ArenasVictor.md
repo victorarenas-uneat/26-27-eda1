@@ -45,6 +45,7 @@ Para comprobar si una referencia existe en la lista, se utiliza == para comproba
 Para que te permita elegir si insertar una copia o mantener la referencia, se utilizan dos métodos separados, uno que inserta la referencia y otro que inserta la copia. Si la persona ya está o es null, no se inserta.
 
 public class Nodo {
+
     private Persona persona;
     private Nodo siguiente; 
 
@@ -62,6 +63,7 @@ public class Nodo {
 }
 
 public class Lista {
+
     private Nodo primero;
 
     public Lista() {
